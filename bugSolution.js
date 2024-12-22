@@ -1,0 +1,1 @@
+function foo(a, b = 0) { //Using default parameters    return a + b;}foo(1, 2);foo(1); //works correctly now 
